@@ -1,8 +1,9 @@
 # DataMining1-Fundamentals
 Project for the DataMining 1 exam. The dataset provided is a modified version (some values removed and made "missing values") of data present on https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset. The analysis therefore concerns IBM HR Analytics Employee Attrition & Performance.
 
+# Project Tasks
 ## Guidelines for the task on Data Understanding
-- Data understanding (30 points)
+### Data understanding (30 points)
 - Data semantics (3 points)
 - Distribution of the variables and statistics (7 points)
 - Assessing data quality (missing values, outliers) (7 points)
